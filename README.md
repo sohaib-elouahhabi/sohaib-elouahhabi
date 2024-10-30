@@ -4,10 +4,12 @@
 
 I’m a full-stack developer, building projects from the ground up, from planning and design to solving real-world problems through code.
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/sohaib-el-ouahhabi-50295823a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-         <img alt="followers" title="Let’s connect on LinkedIn!" src="https://custom-icon-badges.demolab.com/github/followers/sohaib-elouahhabi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Connect&logoColor=white"/></a>
-   </p>
+<p align="left">
+   <a href="https://www.linkedin.com/in/sohaib-el-ouahhabi-50295823a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+      <img alt="Connect" title="Let’s connect on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/Connect-1155ba?style=for-the-badge&logo=person-add&logoColor=white&color=236ad3"/>
+   </a>
+</p>
+
 
 ---
 
