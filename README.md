@@ -33,11 +33,10 @@ I’m a full-stack developer, building projects from the ground up, from plannin
 ### 📊 Stats
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-el-ouahhabi&layout=compact&hide=html&bg_color=191919&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc" alt="sohaib-el-ouahhabi" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaib-el-ouahhabi&show_icons=true&bg_color=191919&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc" alt="sohaib-el-ouahhabi" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-elouahhabi&layout=compact&hide=html&bg_color=191919&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc" alt="sohaib-elouahhabi" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaib-elouahhabi&show_icons=true&bg_color=191919&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc" alt="sohaib-elouahhabi" />
 </div>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=sohaib-elouahhabi&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
